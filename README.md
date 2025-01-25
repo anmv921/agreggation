@@ -1,7 +1,7 @@
 # Diffusion-limited aggregation
 
 
-> ![demo gif](https://github.com/anmv921/agreggation/blob/main/output.gif)
+> ![demo gif](https://github.com/anmv921/agreggation/blob/main/output-ezgif.com-crop.gif)
 
 
 
